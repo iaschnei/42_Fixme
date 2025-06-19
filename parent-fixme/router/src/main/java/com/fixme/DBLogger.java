@@ -1,0 +1,1 @@
+// Log every transaction in the database and update their status

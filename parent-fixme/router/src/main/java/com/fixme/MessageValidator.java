@@ -1,0 +1,1 @@
+// Validate the message received, ensuring it respects the FIX format and expected values

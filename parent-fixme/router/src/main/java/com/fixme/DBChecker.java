@@ -1,0 +1,1 @@
+// In case one component crashes, check the database for incomplete orders
