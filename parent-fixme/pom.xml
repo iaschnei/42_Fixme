@@ -90,9 +90,4 @@
       </plugins>
     </pluginManagement>
   </build>
-  <modules>
-    <module>market</module>
-    <module>router</module>
-    <module>broker</module>
-  </modules>
 </project>
